@@ -6,11 +6,15 @@
     <atom:link href="https://paucasesnovescifp.cat/feed.xml" rel="self" type="application/rss+xml" />
     <description>Pàgina web de l'institut IES PAU CASESNOVES</description>
     <language>ca</language>
+    <category>Educacio</category>
+    <managingEditor>info@paucasesnovescifp.cat (IES PAU CASESNOVES)</managingEditor>
 
     <item>
         <title>Visita d’en Mateu Riera, copilot del Ral·li Dakar</title>
         <link>https://paucasesnovescifp.cat/?p=11718</link>
         <guid>https://paucasesnovescifp.cat/?p=11718</guid>
+        <author>info@paucasesnovescifp.cat (IES PAU CASESNOVES)</author>
+        <category>Activitats</category>
         <description>Noticia que tracta de la visita d’en Mateu Riera, copilot del Ral·li Dakar, al centre educatiu.</description>
         <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
     </item>
@@ -19,9 +23,22 @@
         <title>PAU WORKING: Talent i empresa</title>
         <link>https://paucasesnovescifp.cat/?p=11608</link>
         <guid>https://paucasesnovescifp.cat/?p=11608</guid>
+        <author>info@paucasesnovescifp.cat (IES PAU CASESNOVES)</author>
+        <category>Projectes</category>
         <description>Noticia sobre el projecte PAU WORKING i la seva relació amb el talent i les empreses.</description>
         <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
     </item>
 
+    <item>
+        <title>Jornada de portes obertes 2026</title>
+        <link>https://paucasesnovescifp.cat/?p=11850</link>
+        <guid>https://paucasesnovescifp.cat/?p=11850</guid>
+        <author>info@paucasesnovescifp.cat (IES PAU CASESNOVES)</author>
+        <category>Esdeveniments</category>
+        <description>Convocatoria de la jornada de portes obertes per conèixer l’oferta formativa del centre.</description>
+        <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
+
  </channel>
 </rss>
+
